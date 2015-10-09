@@ -7,8 +7,7 @@ que meu orientador me fez passsar xD, ele pediu para elaborar uma apresentação
 para a materia de Computação Social Móvel. 
 
 
-Mas a experiência foi fantástica, logo logo estarei postando mais matérial compartilhando um pouco do que eu aprende
-ao longo da minha pequena caminhada.
+Mas a experiência foi fantástica, logo logo estarei postando mais matérial e compartilhando um pouco do que eu aprendi ao longo da minha pequena caminhada.
 
 
 
