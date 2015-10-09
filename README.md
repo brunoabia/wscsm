@@ -13,4 +13,4 @@ Mas a experiência foi fantástica, logo logo estarei postando mais matérial e 
 
 Meu email para contato: bruno.abia@gmail.com
 
-Quem quiser pode colaborar sinta-se avontade para mandar email e colaborar com meu trabalho e educação com o Java.
+Quem quiser pode colaborar sinta-se avontade para mandar emails e aprimorar meu trabalho e a minha educação com o Java.
