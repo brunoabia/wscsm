@@ -6,11 +6,14 @@ Eu curto bastante a área de Desenvolvimento tanto para mobile quando para WEB. 
 que meu orientador me fez passsar xD, ele pediu para elaborar uma apresentação que explicasse como fazer um WS com java
 para a materia de Computação Social Móvel. 
 
-
 Mas a experiência foi fantástica, logo logo estarei postando mais matérial e compartilhando um pouco do que eu aprendi ao longo da minha pequena caminhada.
-
-
 
 Meu email para contato: bruno.abia@gmail.com
 
 Quem quiser pode colaborar sinta-se avontade para mandar emails e aprimorar meu trabalho e a minha educação com o Java.
+
+Aqui nessa página você encontrará:
+
+- Código Fonte para auxiliar quem está começando
+- Um .pdf mostrando passo a passo de como iniciar
+- E um script de banco de dados para teste
